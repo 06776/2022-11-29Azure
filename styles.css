@@ -82,3 +82,14 @@ div p {
   text-align: justify;
   text-indent: 20px;
 }
+
+.footer {
+  position: relative;
+  left: 262px;
+  bottom: 0px;
+  padding: 2px;
+  width: 64.9%;
+  background-color: lightskyblue;
+  color: white;
+  text-align-last: center;
+}
