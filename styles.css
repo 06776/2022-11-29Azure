@@ -9,7 +9,7 @@ body {
   background-image: url(hatter.jpg);
 }
 
-#content {
+#tartalom {
   background-color: rgba(4, 42, 63, 0.8);
   margin-bottom: 20px;
   padding: 40px;
@@ -18,12 +18,12 @@ body {
   margin: auto;
 }
 
-.frame {
+.keret {
   padding: 0px 25px 0px 25px;
   margin: auto 20px;
 }
 
-.frame {
+.keret {
   padding: 10px;
   max-width: 800px;
   border-bottom: 3px solid rgb(58, 189, 201);
@@ -46,7 +46,7 @@ a:hover {
   color: yellow;
 }
 
-.caption {
+.kepalairas {
   font-size: 1.3em;
   margin: 0;
   font-style: italic;
