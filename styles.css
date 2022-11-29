@@ -7,18 +7,18 @@ body {
   color: white;
 }
 
-#tartalom {
+#content {
   background-color: rgba(4, 42, 63, 0.8);
   margin-bottom: 20px;
   padding: 40px;
 }
 
-.keret {
+.frame {
   padding: 0px 25px 0px 25px;
   margin: auto 20px;
 }
 
-.kepalairas {
+.caption {
   font-size: 1.3em;
   margin: 0;
   font-style: italic;
